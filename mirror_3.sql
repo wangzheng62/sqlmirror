@@ -1,0 +1,1 @@
+ALTER DATABASE testmirror SET PARTNER ='tcp://192.168.0.181:10086';
